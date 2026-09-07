@@ -7,6 +7,12 @@
 📫 Reach me: taniyamalick09@gmail.com
 
 **Portfolio:** [https://taniya-malick.github.io/portfolio-website/](https://taniya-malick.github.io/portfolio-website/)
+## 🔗 Connect with me
+
+[Email](mailto:taniyamalick09@gmail.com) 
+[Portfolio](https://taniya-malick.github.io/portfolio-website/)
+[LinkedIn](https://linkedin.com/in/your-linkedin) 
+
 ## 📊 GitHub Stats
 
 ![Taniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taniya-malick&show_icons=true&theme=dark)

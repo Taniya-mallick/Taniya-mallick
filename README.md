@@ -15,6 +15,6 @@
 
 ## 📊 GitHub Stats
 
-![Taniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taniya-malick&show_icons=true&theme=dark)
+[Taniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taniya-malick&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-malick&layout=compact&theme=dark)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-malick&layout=compact&theme=dark)

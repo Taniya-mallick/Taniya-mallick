@@ -11,7 +11,7 @@
 
 [Email](mailto:taniyamalick09@gmail.com) 
 [Portfolio](https://taniya-malick.github.io/portfolio-website/)
-[LinkedIn](https://linkedin.com/in/your-linkedin) 
+[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/taniya-mallick-a0648a399) 
 
 ## 📊 GitHub Stats
 

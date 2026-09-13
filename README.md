@@ -18,3 +18,6 @@
 [Taniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=taniya-malick&show_icons=true&theme=dark)
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniya-malick&layout=compact&theme=dark)
+## 📸 Portfolio Preview
+
+![Portfolio Preview](portfolio-preview.png)
